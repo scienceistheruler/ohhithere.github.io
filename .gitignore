@@ -1,0 +1,4 @@
+$ git clone https://github.com/titaniumnetwork-dev/Ultraviolet-Node --recursive
+$ cd Ultraviolet-Node
+$ npm install
+$ npm start
